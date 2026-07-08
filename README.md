@@ -14,7 +14,7 @@ A comprehensive, desktop-based clinic management system designed for dental prac
 * **Soft Delete Architecture:** Implements logical deletion (`Visible = false`) to maintain relational data integrity and historical records without permanently erasing data from the database.
 
 ### 2. Premium & Commercial Modules (Demonstrated via Demos Only)
-* **Automated WhatsApp Engagement: Generates and sends personalized appointment reminders and follow-up alerts directly to patients via WhatsApp Web integration.
+* **Automated WhatsApp Engagement:** Generates and sends personalized appointment reminders and follow-up alerts directly to patients via WhatsApp Web integration.
 * **Financial Intelligence Dashboard:** Aggregates real-time clinic revenue and operational expenses to present critical cash flow insights.
 * **Official Document Automation:** Instantly generates standardized prescriptions and certified medical leave documentation using a built-in **Medical Diagnosis Guide (ODR codes)**.
 * **Dynamic RDLC Reporting & Export:** Integrated Report Definition Language Client-side (RDLC) to generate instantly printable lists. **Fully supports exporting all data to Microsoft Excel** for external accounting and analysis.
